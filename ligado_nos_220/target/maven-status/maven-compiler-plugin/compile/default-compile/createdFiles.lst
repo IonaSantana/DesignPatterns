@@ -1,0 +1,5 @@
+Interface/ArCondicionado.class
+Interface/Voltagem220.class
+Interface/Voltagem110.class
+adapters/Conversor220v110Adapter.class
+com/mycompany/ligado_nos_220/Cliente.class

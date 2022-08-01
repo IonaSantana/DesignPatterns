@@ -1,0 +1,5 @@
+models/Caminhao.class
+models/Veiculo.class
+models/Pneu.class
+veiculoprototype/VeiculoPrototype.class
+models/Carro.class

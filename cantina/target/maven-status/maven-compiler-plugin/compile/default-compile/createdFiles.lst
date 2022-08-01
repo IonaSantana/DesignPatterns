@@ -1,0 +1,13 @@
+fabricas/SalgadoIngredientesFactory.class
+modelos/Salgado.class
+fabricas/GoiasCoxinhaIngredientesFactory.class
+fabricas/SalgadosFactory.class
+modelos/Empada.class
+modelos/Coxinha.class
+fabricas/GoiasEmpadaIngredientesFactory.class
+fabricas/SalgadosFactory$Salgados_Tipo.class
+fabricas/CearaCoxinhaIngredientesFactory.class
+fabricas/SalgadosFactory$1.class
+fabricas/CearaEmpadaIngredientesFactory.class
+com/mycompany/cantina/EstouComFomeCrueldadeEssePrograma.class
+fabricas/SalgadosFactory$Salgados_Regiao.class
